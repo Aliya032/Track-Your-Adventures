@@ -13,18 +13,6 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "63ca",
       "cityName": "Hyderabad",
       "country": "India",
@@ -34,6 +22,18 @@
       "position": {
         "lat": "17.37422936243766",
         "lng": "78.5357878715223"
+      }
+    },
+    {
+      "id": "0f87",
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2025-08-24T12:50:02.721Z",
+      "notes": "",
+      "position": {
+        "lat": "23.664650731631625",
+        "lng": "54.82177734375"
       }
     }
   ]
