@@ -1,39 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "id": "63ca",
+      "id": "b60e",
       "cityName": "Hyderabad",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2025-07-23T03:53:36.434Z",
+      "date": "2025-12-02T06:34:05.186Z",
       "notes": "",
       "position": {
-        "lat": "17.37422936243766",
-        "lng": "78.5357878715223"
+        "lat": "17.518344187852218",
+        "lng": "78.70605468750001"
       }
     },
     {
-      "id": "0f87",
-      "cityName": "Abu Dhabi",
-      "country": "United Arab Emirates (the)",
-      "emoji": "🇦🇪",
-      "date": "2025-08-24T12:50:02.721Z",
+      "id": "a880",
+      "cityName": "Liupanshui",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-12-02T06:34:14.053Z",
       "notes": "",
       "position": {
-        "lat": "23.664650731631625",
-        "lng": "54.82177734375"
+        "lat": "26.27371402440643",
+        "lng": "105.11718750000001"
+      }
+    },
+    {
+      "id": "2965",
+      "cityName": "Nagqu",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2025-12-02T06:34:17.145Z",
+      "notes": "",
+      "position": {
+        "lat": "31.653381399664",
+        "lng": "88.76953125"
       }
     }
   ]
