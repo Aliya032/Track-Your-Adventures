@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+src/App-v1.jsx
+src/App-v2.jsx
