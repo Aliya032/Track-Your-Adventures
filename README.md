@@ -43,6 +43,6 @@ by default at http://localhost:5173
 
 ### Screenshots
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![Home Page](public/image-1.png)
+![Countries Page](public/image-2.png)
+![Cities Page](public/image-3.png)
