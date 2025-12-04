@@ -8,6 +8,10 @@
 - React Router
 - React-Leaflet/Leaflet.js
 
+#### State Management
+
+- React Context + useReducer
+
 ---
 
 To run this project locally:
