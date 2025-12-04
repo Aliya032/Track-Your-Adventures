@@ -13,27 +13,39 @@
       }
     },
     {
-      "id": "4204",
-      "cityName": "Þingeyjarsveit",
-      "country": "Iceland",
-      "emoji": "🇮🇸",
-      "date": "2025-12-04T06:35:34.875Z",
+      "id": "87a9",
+      "cityName": "Pyawbwe",
+      "country": "Myanmar",
+      "emoji": "🇲🇲",
+      "date": "2025-12-04T07:54:36.435Z",
       "notes": "",
       "position": {
-        "lat": "64.69910544204765",
-        "lng": "-17.578125000000004"
+        "lat": "20.632784250388028",
+        "lng": "95.97656250000001"
       }
     },
     {
-      "id": "06c3",
-      "cityName": "Anadyrskiy Rayon",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2025-12-04T06:35:43.133Z",
+      "id": "ca6c",
+      "cityName": "Bazar-e Yakawlang",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2025-12-04T07:54:43.562Z",
       "notes": "",
       "position": {
-        "lat": "66.23145747862573",
-        "lng": "169.80468750000003"
+        "lat": "34.59704151614417",
+        "lng": "66.79687500000001"
+      }
+    },
+    {
+      "id": "2864",
+      "cityName": "Aktogay",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2025-12-04T07:54:50.477Z",
+      "notes": "",
+      "position": {
+        "lat": "47.754097979680026",
+        "lng": "76.640625"
       }
     }
   ]
